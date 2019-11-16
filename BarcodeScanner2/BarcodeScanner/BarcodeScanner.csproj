@@ -82,8 +82,8 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <None Include="Data\20160923.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <None Include="Data\20191113.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
   <ItemGroup>
